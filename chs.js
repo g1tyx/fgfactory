@@ -216,7 +216,7 @@ var cnItems = {
     "Unlocks Sulfur and Acid Sulfuric productions": "解锁硫磺和酸性硫酸产品",
     "Unlocks Water production": "解锁水生产",
     "Water": "水",
-    "": "",
+    "Concrete": "混凝土",
     "": "",
     "": "",
     "": "",
