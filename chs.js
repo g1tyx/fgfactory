@@ -141,7 +141,7 @@ var cnItems = {
     "Unlocks Assembler and Chest": "解锁组装器和箱子",
     "Assembler": "组装器",
     "Chest": "箱子",
-    "Double storage": "双重存储",
+    "Double storage": "储量翻倍",
     "Green Science": "绿瓶科学",
     "Steel Tech": "钢科技",
     "Stone Brick": "石砖",
