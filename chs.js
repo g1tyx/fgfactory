@@ -186,7 +186,7 @@ var cnItems = {
     "You just unlocked the": "你刚刚解锁了",
     "You made a big step to escape from this hostile planet : your": "你为逃离这个充满敌意的星球迈出了一大步：你的",
     "You unlocked": "你解锁了",
-    "": "",
+    "Concrete Tech": "混凝土科技",
     "": "",
     "": "",
     "": "",
