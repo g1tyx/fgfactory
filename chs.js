@@ -252,7 +252,7 @@ var cnItems = {
     "Explosives": "炸药",
     "Unlocks Coal and Explosive productions": "解锁煤炭和炸药生产",
     "Unlocks Pistol weapon": "解锁手枪武器",
-    "Unlocks Robotics 2 research": "解锁 机器人科技 2 研究",
+    "Unlocks Robotics 2 research": "解锁研究 机器人学 2",
     "": "",
     "": "",
     "": "",
