@@ -282,7 +282,7 @@ var cnItems = {
     "Rocket Launcher": "火箭筒",
     "Shotgun": "霰弹枪",
     "Submachine Gun": "冲锋枪",
-    "Built": "建成",
+    "Built": "已建造",
     "Easy Mode": "简单模式",
     "Research All Techs": "研究所有技术",
     "Research Oil Processing 1": "研究石油加工 1",
