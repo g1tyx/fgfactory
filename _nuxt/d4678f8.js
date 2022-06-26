@@ -2145,7 +2145,7 @@
             l.a.use(y.a);
             var k = {
                 mode: "history",
-                base: "/fgfactory/",
+                base: "/",
                 linkActiveClass: "nuxt-link-active",
                 linkExactActiveClass: "nuxt-link-exact-active",
                 scrollBehavior: function (e, t, n) {
