@@ -303,7 +303,7 @@ var cnItems = {
     "on Discord with following exported data": "与以下导出数据不一致",
     "Or you could wipe your local data to restart the game at the beginning": "或者您可以擦除本地数据以在开始时重新启动游戏",
     "To ask for help, you could contact": "要寻求帮助，您可以联系",
-    "": "",
+    "Items": "物品",
     "": "",
     "": "",
     "": "",
