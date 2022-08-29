@@ -320,7 +320,7 @@ var cnItems = {
     "soon.": "很快。",
     "To automate": "自动化",
     "you could automate": "你可以自动化",
-    "you could smelt": "你可以闻到",
+    "you could smelt": "你可以冶炼",
     "": "",
     "": "",
     "": "",
