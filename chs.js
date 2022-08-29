@@ -477,7 +477,7 @@ var cnPrefix = {
     "Single-Tab Mode: ": "单标签模式：",
     "Time Played: ": "已玩时长：",
     "Shift-Click to Toggle Tooltips: ": "Shift-单击以切换工具提示：",
-    "": "",
+    "Oil Tech ": "石油科技 ",
     "": "",
     "": "",
     "": "",
