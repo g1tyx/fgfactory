@@ -394,7 +394,7 @@ var cnItems = {
     "Raw Production": "原料生产",
     "Researching": "研究中",
     "Upgrade Storage": "升级存储",
-    "": "",
+    "By starting a new Run, you will lose your current progression. You cannot have multiple Runs at the same time.": "通过开始新的运行，您将失去当前的耀西进度。 您不能同时进行多个运行。",
     "": "",
     "": "",
     "": "",
