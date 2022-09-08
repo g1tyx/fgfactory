@@ -285,7 +285,7 @@ var cnItems = {
     "This game is still under development with bugs and maybe data lost! Play as your own risks!": "该游戏仍在开发中，存在错误，可能会丢失数据！ 玩你自己的风险！",
     "To continue, manually mine 5": "要继续，请手动挖掘 5",
     "When": "当",
-    "Winning Time": "胜利时间",
+    "Winning Time": "通关时间",
     "Wipe Local Data": "擦除本地数据",
     "World": "世界",
     "love in the world by": "爱在世界上",
