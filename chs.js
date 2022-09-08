@@ -592,6 +592,7 @@ var cnRegReplace = new Map([
     [/^You have (.+) points$/, '你有 $1 点数'],
     [/^Next at (.+) points$/, '下一个在 $1 点数'],
 	[/^Top ([\d\.]+) World ([\d\.]+)$/, 'Top $1 世界 $2'],
+	[/^Top World ([\d\.]+)$/, '世界 $1 排名'],
 	[/^([\d\.]+)\/sec$/, '$1\/秒'],
 	[/^([\d\.,]+)\/sec$/, '$1\/秒'],
 	[/^([\d\.,]+) OOMs\/sec$/, '$1 OOMs\/秒'],
